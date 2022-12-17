@@ -6,6 +6,7 @@
 # ℹ️ ABOUT ME
  
 * Date of birth: 01/01/1999
+* Location: Copenhagen, Denmark
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonebank&layout=compact&langs_count=9&theme=dracula)
 
