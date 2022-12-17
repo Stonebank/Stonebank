@@ -33,5 +33,6 @@
 #### 5. [The useless discord bot](https://github.com/Stonebank/TheUselessBot) - Developed with Java and Kotlin (OUT OF DATE)
 
 # 🔗 Contact
-Mail: [code]hello[/code]
+📧 E-mail: Hassan_99@live.dk<br>
+🧍 LinkedIn: https://www.linkedin.com/in/hassan-kassem99/
 
