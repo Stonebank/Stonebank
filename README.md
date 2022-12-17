@@ -1,8 +1,6 @@
 
-# 👋 Hi there!
-### I am Hassan K.
-
-Welcome to my GitHub page. Here you will find all my repositories ranging from school to hobby projects.<br>
+### 👋 Hi there!
+### I am Hassan K. Welcome to my GitHub page. Here you will find all my repositories ranging from school to hobby projects.<br>
 <b>Feel free to explore!</b>
 
 # ℹ️ ABOUT ME
@@ -33,4 +31,7 @@ Welcome to my GitHub page. Here you will find all my repositories ranging from s
 #### 3. [Activity Finder webapplication (ASP.NET)](https://github.com/Stonebank/activityfinder_asp.net) - Developed with C# and .NET (ASP.NET MVC CORE) for a school project
 #### 4. [Lykkehjulet](https://github.com/Stonebank/Lykkehjulet) - Developed with Kotlin for a school project
 #### 5. [The useless discord bot](https://github.com/Stonebank/TheUselessBot) - Developed with Java and Kotlin (OUT OF DATE)
+
+# 🔗 Contact
+Mail: [code]hello[/code]
 
