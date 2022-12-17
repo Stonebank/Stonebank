@@ -35,5 +35,5 @@
 
 # 🔗 Contact
 * E-mail: Hassan_99@live.dk<br>
-* LinkedIn: https://www.linkedin.com/in/hassan-kassem99/
+* LinkedIn: www.linkedin.com/in/hassan-k99
 
