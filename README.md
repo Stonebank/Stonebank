@@ -27,7 +27,7 @@
 
 ### ❤️ My favorite projects
 
-#### 1. [SudokuSolver](https://github.com/Stonebank/SudokuSolver) (CURRENTLY WORKING ON) - Developed with Java using OpenCV and Tesseract 
+#### 1. [SudokuSolver](https://github.com/Stonebank/SudokuSolver) - Developed with Java using OpenCV and Tesseract 
 #### 2. [Activity Finder webapplication](https://github.com/Stonebank/activityfinder_webapplication) - Developed with Java Spring and Thymeleaf 
 #### 3. [Activity Finder webapplication (ASP.NET)](https://github.com/Stonebank/activityfinder_asp.net) - Developed with C# and .NET (ASP.NET MVC CORE) for a school project
 #### 4. [Lykkehjulet](https://github.com/Stonebank/Lykkehjulet) - Developed with Kotlin for a school project
