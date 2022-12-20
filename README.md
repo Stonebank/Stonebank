@@ -23,7 +23,7 @@
 
 * Java / Kotlin (kotlin primarily for android development)
 * C# with the .NET framework 
-* Python 
+* [Python] 
 
 ### ❤️ My favorite projects
 
