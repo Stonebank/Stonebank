@@ -10,8 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonebank&layout=compact&langs_count=9&theme=dracula)
 
-### 🔍 I'm currently looking for a student job as a programmer to start my exciting career in this industry 
-
 # 📚 EDUCATION
 
 ### Technical university of Denmark (DTU)
