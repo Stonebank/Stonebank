@@ -1,6 +1,6 @@
 
 ### 👋 Hi there!
-### I am Hassan K. Welcome to my GitHub page. Here you will find all my repositories ranging from school to hobby projects.<br>
+### I am Hassan K. Welcome to my GitHub page. Here you will find all my repositories ranging from web appliations to mobile applications and much more.<br>
 <b>Feel free to explore!</b>
 
 # ℹ️ ABOUT ME
