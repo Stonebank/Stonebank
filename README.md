@@ -26,10 +26,10 @@
 ### ❤️ My favorite projects
 
 #### 1. [SudokuSolver](https://github.com/Stonebank/SudokuSolver) - Developed with Java using OpenCV and Tesseract 
-#### 2. [Activity Finder webapplication](https://github.com/Stonebank/activityfinder_webapplication) - Developed with Java Spring and Thymeleaf 
-#### 3. [Activity Finder webapplication (ASP.NET)](https://github.com/Stonebank/activityfinder_asp.net) - Developed with C# and .NET (ASP.NET MVC CORE) for a school project
-#### 4. [Lykkehjulet](https://github.com/Stonebank/Lykkehjulet) - Developed with Kotlin for a school project
-#### 5. [The useless discord bot](https://github.com/Stonebank/TheUselessBot) - Developed with Java and Kotlin (OUT OF DATE)
+#### 2. [Activity Finder webapplication](https://github.com/Stonebank/activityfinder_webapplication) - Developed with Java Spring and Thymeleaf **(OUTDATED)**
+#### 3. [Activity Finder webapplication (ASP.NET)](https://github.com/Stonebank/activityfinder_asp.net) - Developed with C# and .NET (ASP.NET MVC CORE) for a school project **(OUTDATED)**
+#### 4. [Lykkehjulet](https://github.com/Stonebank/Lykkehjulet) - Developed with Kotlin for a school project **(OUTDATED)**
+#### 5. [The useless discord bot](https://github.com/Stonebank/TheUselessBot) - Developed with Java and Kotlin **(OUTDATED)**
 
 # 🔗 Contact
 * E-mail: Hassan_99@live.dk<br>
