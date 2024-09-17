@@ -12,8 +12,7 @@
 
 # 📚 EDUCATION
 
-### Technical university of Denmark (DTU)
-##### Currently attending as a softwareengineer 
+### Technical university of Denmark (DTU) | Software Engineering 
 
 # :star: Highlights
 
