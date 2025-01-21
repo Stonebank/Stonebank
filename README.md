@@ -19,7 +19,8 @@
 <b>In addition to my education, I am a self-taught programmer who started developing in Java back in 2011. These are my favorite programming languages:</b>
 
 * Java / Kotlin (kotlin primarily for android development)
-* C# with the .NET framework 
+* C# with the .NET framework
+* React, TypeScript and Tailwind CSS
 * Python
 
 ### ❤️ My favorite projects
