@@ -10,7 +10,7 @@ I'm **Hassan K.**, a passionate software engineer based in Copenhagen, Denmark. 
 
 - 🏡 **Location:** Copenhagen, Denmark  
 - 🎂 **Born:** 01/01/1999  
-- 💻 **Software Engineer | Consultant**  
+- 💻 **Software Engineer**  
 - 🎓 **Technical University of Denmark (DTU) – Software Engineering**  
 - 💡 **Self-taught programmer since 2011**  
 
@@ -29,6 +29,7 @@ I'm **Hassan K.**, a passionate software engineer based in Copenhagen, Denmark. 
 - 🔹 **Python**  
 
 ### **Areas of Interest:**  
+
 ✅ **Software Architecture** – Building scalable and maintainable solutions  
 ✅ **Web Development** – Frontend & Backend using modern frameworks  
 ✅ **Mobile Development** – Android with Kotlin  
