@@ -1,39 +1,72 @@
+### 👋 Hi there! Welcome to my GitHub!  
 
-### 👋 Hi there!
-### I am Hassan K. Welcome to my GitHub page. Here you will find all my repositories ranging from web appliations to mobile applications and much more.<br>
-<b>Feel free to explore!</b>
+I'm **Hassan K.**, a passionate software engineer based in Copenhagen, Denmark. Here, you'll find a collection of my projects, ranging from **web and mobile applications** to **AI-powered solutions** and more.  
 
-# ℹ️ ABOUT ME
- 
-* Date of birth: 01/01/1999
-* Location: Copenhagen, Denmark
+🚀 **Feel free to explore and connect!**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonebank&layout=compact&langs_count=9&theme=dracula)
+---
 
-# 📚 EDUCATION
+## ℹ️ About Me  
 
-### Technical university of Denmark (DTU) | Software Engineering 
+- 🏡 **Location:** Copenhagen, Denmark  
+- 🎂 **Born:** 01/01/1999  
+- 💻 **Software Engineer | Consultant**  
+- 🎓 **Technical University of Denmark (DTU) – Software Engineering**  
+- 💡 **Self-taught programmer since 2011**  
 
-# :star: Highlights
+📊 **Languages I Use the Most:**  
 
-<b>In addition to my education and professional experience, I am a self-taught programmer who started developing in Java back in 2011. These are my favorite programming languages:</b>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonebank&layout=compact&langs_count=9&theme=dracula)  
 
-* Java / Kotlin (kotlin primarily for android development)
-* C# with the .NET framework
-* React, TypeScript and Tailwind CSS
-* Python
+---
 
-### ❤️ My favorite projects
+## 🛠️ Tech Stack & Expertise  
 
-#### 1. [SudokuSolver](https://github.com/Stonebank/SudokuSolver) - Developed with Java using OpenCV and Tesseract 
-#### 2. [Activity Finder webapplication](https://github.com/Stonebank/activityfinder_webapplication) - Developed with Java Spring and Thymeleaf **(OUTDATED)**
-#### 3. [Activity Finder webapplication (ASP.NET)](https://github.com/Stonebank/activityfinder_asp.net) - Developed with C# and .NET (ASP.NET MVC CORE) for a school project **(OUTDATED)**
-#### 4. [Lykkehjulet](https://github.com/Stonebank/Lykkehjulet) - Developed with Kotlin for a school project **(OUTDATED)**
-#### 5. [The useless discord bot](https://github.com/Stonebank/TheUselessBot) - Developed with Java and Kotlin **(OUTDATED)**
+### **Favorite Programming Languages:**  
+- 🔹 **Java / Kotlin** (Kotlin primarily for Android development)  
+- 🔹 **C# (.NET, ASP.NET Core)**  
+- 🔹 **React, TypeScript, Tailwind CSS**  
+- 🔹 **Python**  
 
-# 🔗 Contact
-* E-mail: Hassan_99@live.dk<br>
-* LinkedIn: www.linkedin.com/in/hassan-k99
+### **Areas of Interest:**  
+✅ **Software Architecture** – Building scalable and maintainable solutions  
+✅ **Web Development** – Frontend & Backend using modern frameworks  
+✅ **Mobile Development** – Android with Kotlin  
+✅ **AI & Computer Vision** – OpenCV, Tesseract  
+✅ **Game Development** – Experimenting with Unity and Unreal Engine  
 
-![](https://komarev.com/ghpvc/?username=stonebank)
+---
 
+## 🌟 Featured Projects  
+
+Here are some of my favorite projects that showcase my skills:  
+
+### **1. Sudoku Solver**  
+📌 **[SudokuSolver](https://github.com/Stonebank/SudokuSolver)** – A smart Sudoku solver built using **Java, OpenCV, and Tesseract** for digit recognition.  
+
+### **2. Activity Finder (Java Spring)**  
+📌 **[Activity Finder Web App](https://github.com/Stonebank/activityfinder_webapplication)** – Developed with **Java Spring and Thymeleaf**. *(Archived: Outdated)*  
+
+### **3. Activity Finder (ASP.NET Core)**  
+📌 **[Activity Finder (ASP.NET)](https://github.com/Stonebank/activityfinder_asp.net)** – Built with **C# and .NET (ASP.NET MVC Core)**. *(Archived: Outdated)*  
+
+### **4. Lykkehjulet (Kotlin Game)**  
+📌 **[Lykkehjulet](https://github.com/Stonebank/Lykkehjulet)** – A fun project developed in **Kotlin**. *(Archived: Outdated)*  
+
+### **5. The Useless Discord Bot**  
+📌 **[TheUselessBot](https://github.com/Stonebank/TheUselessBot)** – A Discord bot coded in **Java & Kotlin**. *(Archived: Outdated)*  
+
+---
+
+## 🔗 Connect with Me  
+
+📧 **E-mail:** Hassan_99@live.dk  
+💼 **LinkedIn:** [linkedin.com/in/hassan-k99](https://www.linkedin.com/in/hassan-k99)  
+
+📈 **GitHub Profile Views:**  
+![Profile Views](https://komarev.com/ghpvc/?username=stonebank)  
+
+---
+
+### 🚀 Always Learning & Building!  
+I'm always eager to **learn new technologies, solve complex problems, and contribute to open-source projects**. Feel free to **reach out or collaborate** if you find my work interesting!  
