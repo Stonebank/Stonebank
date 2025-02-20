@@ -36,29 +36,6 @@ I'm **Hassan K.**, a passionate software engineer based in Copenhagen, Denmark. 
 ✅ **AI & Computer Vision** – OpenCV, Tesseract  
 ✅ **Game Development** – Experimenting with Unity and Unreal Engine  
 
----
-
-## 🌟 Featured Projects  
-
-Here are some of my favorite projects that showcase my skills:  
-
-### **1. Sudoku Solver**  
-📌 **[SudokuSolver](https://github.com/Stonebank/SudokuSolver)** – A smart Sudoku solver built using **Java, OpenCV, and Tesseract** for digit recognition.  
-
-### **2. Activity Finder (Java Spring)**  
-📌 **[Activity Finder Web App](https://github.com/Stonebank/activityfinder_webapplication)** – Developed with **Java Spring and Thymeleaf**. *(Archived: Outdated)*  
-
-### **3. Activity Finder (ASP.NET Core)**  
-📌 **[Activity Finder (ASP.NET)](https://github.com/Stonebank/activityfinder_asp.net)** – Built with **C# and .NET (ASP.NET MVC Core)**. *(Archived: Outdated)*  
-
-### **4. Lykkehjulet (Kotlin Game)**  
-📌 **[Lykkehjulet](https://github.com/Stonebank/Lykkehjulet)** – A fun project developed in **Kotlin**. *(Archived: Outdated)*  
-
-### **5. The Useless Discord Bot**  
-📌 **[TheUselessBot](https://github.com/Stonebank/TheUselessBot)** – A Discord bot coded in **Java & Kotlin**. *(Archived: Outdated)*  
-
----
-
 ## 🔗 Connect with Me  
 
 📧 **E-mail:** Hassan_99@live.dk  
