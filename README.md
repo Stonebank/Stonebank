@@ -16,7 +16,7 @@ I'm **Hassan K.**, a passionate software engineer based in Copenhagen, Denmark. 
 
 📊 **Languages I Use the Most:**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonebank&layout=compact&langs_count=9&theme=dracula)  
+![Top Langs](https://github-readme-stats-mauve-alpha-18.vercel.app/api/top-langs/?username=stonebank&layout=compact&langs_count=9&theme=dracula&hide_border=true&card_width=420)
 
 ---
 
