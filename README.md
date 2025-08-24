@@ -40,7 +40,6 @@ I'm **Hassan K.**, a passionate software engineer based in Copenhagen, Denmark. 
 
 💼 **LinkedIn:** [linkedin.com/in/hassan-k99](https://www.linkedin.com/in/hassan-k99)  
 
-📈 **GitHub Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=stonebank)  
 
 ---
