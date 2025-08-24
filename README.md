@@ -38,7 +38,6 @@ I'm **Hassan K.**, a passionate software engineer based in Copenhagen, Denmark. 
 
 ## 🔗 Connect with Me  
 
-📧 **E-mail:** Hassan_99@live.dk  
 💼 **LinkedIn:** [linkedin.com/in/hassan-k99](https://www.linkedin.com/in/hassan-k99)  
 
 📈 **GitHub Profile Views:**  
